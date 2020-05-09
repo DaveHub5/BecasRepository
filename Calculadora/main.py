@@ -52,8 +52,9 @@ def invokeFunction(argument):
         "e": opcionExponencial,
         "f": opcionRaiz,        
     }
-    func = switcher.get(argument, lambda: "Invalid month")
-    func()
+    func = switcher.get(argument, lambda: "Invalid option")
+    if(func() == "Invalid option"):
+        print("Invalid option")
 
 
 
