@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def fResta():
     menuNum1 = "Primer Número: "
     menuNum2 = "Segundo Número: "

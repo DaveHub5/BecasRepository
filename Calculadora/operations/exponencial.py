@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def fExpo():
     menuNum1 = "Base: "
     menuNum2 = "Exponente: "

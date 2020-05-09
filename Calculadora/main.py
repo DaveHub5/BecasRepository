@@ -1,8 +1,5 @@
-from sys import path
-import importlib
+#!/usr/bin/env python3
 
-#import operations.suma as suma
-#importlib.reload(suma)
 
 from operations.suma import fSuma
 from operations.resta import fResta

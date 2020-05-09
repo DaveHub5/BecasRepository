@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def fDiv():
     menuNum1 = "Dividendo: "
     menuNum2 = "Divisor: "

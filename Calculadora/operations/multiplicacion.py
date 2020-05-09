@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def fMul():
     menuNum1 = "Primer Número: "
     menuNum2 = "Segundo Número: "
