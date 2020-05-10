@@ -57,7 +57,7 @@ def invokeFunction(argument):
 
 while(True):
     print(stringMenu)
-    inputData = input("Choose an option (a,b,c,d,e,f,s): ")
+    inputData = input("Choose an option (a,b,c,d,e,f,s): ").lower()
     if(inputData == "s"):
         break
     invokeFunction(inputData)
